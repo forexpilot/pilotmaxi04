@@ -7,7 +7,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > **CURRENT BOT VERSION ➜ `4.0.0 ⚡`**
 ---
-![Screenshot_2024-09-28-18-18-49-16_f9ee0578fe1cc94de7482bd41accb329](https://github.com/user-attachments/assets/f0b69f54-8b2f-4ffc-8a80-7aae08541eb0)
+![Screenshot_2024-09-28-18-18-49-16_f9ee0578fe1cc94de7482bd41accb329]
   <p align="center">
 <a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
 <a href="https://github.com/itx-alii-raza/ALI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itx-alii-raza/ALI-MD?color=blue&style=flat-square"></a>
