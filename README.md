@@ -6,7 +6,6 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ---
 
 > **CURRENT BOT VERSION ➜ `4.0.0 ⚡`**
-> https://www.bmw.com/en/freude/colours-at-bmw.html
   <p align="center">
 <a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
 <a href="https://github.com/itx-alii-raza/ALI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itx-alii-raza/ALI-MD?color=blue&style=flat-square"></a>
